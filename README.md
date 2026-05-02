@@ -26,29 +26,12 @@ Instead of showing only the final answer, the interface makes the entire executi
 
 ---
 
-## Tech Stack
+## Disclosure
 
-* React (Vite)
-* Tailwind CSS
-* Custom hooks for state and event handling
+This project is my original work. I used AI tools to assist with structuring components, refining UI details and improving documentation. All implementation decisions, state modeling, and final code structure were reviewed and adapted by me.
 
----
 
-## Project Structure
 
-```bash
-src/
- ├── components/
- │   ├── layout/
- │   ├── timeline/
- │   ├── panels/
- │   └── common/
- ├── hooks/
- ├── mock/
- └── utils/
-```
-
----
 
 
 
